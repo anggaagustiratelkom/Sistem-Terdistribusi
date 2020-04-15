@@ -1,0 +1,2 @@
+Threads : Rata rata suhu di 3 daerah tertentu
+MPI : Pengukuran suhu badan apakah demam, normal atau hipotermia 
