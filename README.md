@@ -1,1 +1,1 @@
-# Sistem-Terdistribusi
+# Sistem-Terdistribusi & Paralel
